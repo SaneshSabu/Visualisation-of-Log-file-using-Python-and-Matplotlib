@@ -1,6 +1,10 @@
 # Visualisation-of-Log-file-using-Python-and-Matplotlib
 Visualisation of Log file using Python and Matplotlib
 
+Matplotlib can be installed using pip. The following command is run in the command prompt to install Matplotlib.
+```bash
+pip install matplotlib
+```
 ### Sample Output
 #### hits_date_line_graph.py
 ![hitsperdateline](https://user-images.githubusercontent.com/106676454/183998209-ee2ebcc4-e856-4531-85a2-0234be9939f3.JPG)
